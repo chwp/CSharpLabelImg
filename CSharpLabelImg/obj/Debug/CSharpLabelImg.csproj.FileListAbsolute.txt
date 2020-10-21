@@ -1,0 +1,52 @@
+d:\my documents\visual studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe.config
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.pdb
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Controls.dll
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Video.dll
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.dll
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Imaging.dll
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csprojResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Form1.resources
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Properties.Resources.resources
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.exe
+D:\My Documents\Visual Studio 2015\Projects\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.pdb
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe.config
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.exe
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.pdb
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.pdb
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Video.dll
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.dll
+F:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Imaging.dll
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csprojResolveAssemblyReference.cache
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Form1.resources
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Properties.Resources.resources
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csproj.GenerateResource.Cache
+F:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.ImageProcessForm.resources
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe.config
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.exe
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.pdb
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.pdb
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Video.dll
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.dll
+E:\AI\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Imaging.dll
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csprojResolveAssemblyReference.cache
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Form1.resources
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.ImageProcessForm.resources
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Properties.Resources.resources
+E:\AI\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csproj.GenerateResource.Cache
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe.config
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.exe
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.pdb
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.exe
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\CSharpLabelImg.pdb
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Video.dll
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.dll
+F:\AI2\CSharpLabelImg\CSharpLabelImg\bin\Debug\AForge.Imaging.dll
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csprojResolveAssemblyReference.cache
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Form1.resources
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.ImageProcessForm.resources
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.Properties.Resources.resources
+F:\AI2\CSharpLabelImg\CSharpLabelImg\obj\Debug\CSharpLabelImg.csproj.GenerateResource.Cache
